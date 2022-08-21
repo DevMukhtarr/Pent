@@ -19,7 +19,7 @@ What Tenants can do:
  # Api Reference
 
 ## Getting Started
-- Base Url: The Base Url of the project is live at ``` https://pent-api.herokuapp.com ```
+- Base Url: The Base Url of the project is live at  https://pent-api.herokuapp.com 
 - Authentication: Authentication token will be available on sign in and sign up of tenant
 - Environment Variables: a sample of environment variables is available at ``` .env.example ``` file  
 
@@ -29,7 +29,7 @@ What Tenants can do:
  General:
  - Registers a new tenant
 
-> sample : ``` https://pent-api.herokuapp.com/signup ```
+> sample :  https://pent-api.herokuapp.com/signup 
 
 request sample
 
@@ -59,7 +59,7 @@ response sample
 General:
  - signin as a user
 
- > sample : ``` https://pent-api.herokuapp.com/signin ```
+ > sample : https://pent-api.herokuapp.com/signin 
 
  request sample
 
@@ -87,7 +87,7 @@ General:
  General:
  - Create review of past apartments
 
- > sample : ``` https://pent-api.herokuapp.com/create-review ```
+ > sample : https://pent-api.herokuapp.com/create-review 
 
  request sample
 
@@ -122,7 +122,7 @@ response sample
  General:
  - rate review as a visitor
 
- > sample : ``` https://pent-api.herokuapp.com/visitor-rating ```
+ > sample : https://pent-api.herokuapp.com/visitor-rating 
 
  request sample
 
@@ -148,7 +148,7 @@ response sample
 General:
  - Gets all reviews available
 
- > sample : ``` https://pent-api.herokuapp.com/view-all-reviews ```
+ > sample : https://pent-api.herokuapp.com/view-all-reviews 
 
 response sample
 
@@ -197,7 +197,7 @@ response sample
 General:
  - Get reviews by Helpful rating from visitors
 
->sample: ``` https://pent-api.herokuapp.com/view-reviews-by-helpful  ```
+>sample:  https://pent-api.herokuapp.com/view-reviews-by-helpful  
 
 response sample
 
@@ -246,7 +246,7 @@ response sample
 General:
  - Get reviews by most recent
 
->sample: ``` https://pent-api.herokuapp.com/view-reviews-by-recent  ```
+>sample: https://pent-api.herokuapp.com/view-reviews-by-recent 
 
 response sample
 
