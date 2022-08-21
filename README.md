@@ -5,7 +5,7 @@ Pent is a hypothetical platform where users can sign up with their basic informa
 What Tenants can do:
 
  1. Give reviews about previous landlords
- 2. Include optional Image or Videos of previous apartments
+ 2. Include optional Image or Video of previous apartments
  3. Include review about Environment Apartment is located
  4. Include review of quality of amenities of previous apartment
 
@@ -127,7 +127,7 @@ response sample
  ```
 {
     "tenant_email": "johndoe@gmail.com",
-    "helpful": true
+    "helpful": "true"
 }
 
  ```
