@@ -27,7 +27,7 @@ What Tenants can do:
 > POST /signup
 
  General:
- - Registers a new tenant
+ - Registers as a tenant
 
 > sample :  https://pent-api.herokuapp.com/signup 
 
