@@ -9,7 +9,7 @@ What Tenants can do:
  3. Include review about Environment Apartment is located
  4. Include review of quality of amenities of previous apartment
 
- What random users can do:
+ What random visitors can do:
  
  1. View all reviews
  2. Rate reviews
