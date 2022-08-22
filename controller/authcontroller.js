@@ -43,7 +43,7 @@ export const signUp = async (req, res) => {
         user_id: newUser._id,
         email: email
     }, process.env.JWT_TOKEN_KEY, {
-        expiresIn: "10",
+        expiresIn: "10m",
     })
     
     return res.status(200).json({
