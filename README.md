@@ -94,6 +94,7 @@ General:
  Body below and a jwt token gotten from new registration or new sign in
 
  ```
+ using x-access-token as key for header and the jwt you get in either sign in or signup i.e.
 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjMwMTc3ODRlNjgyMGE2OTAyNzJkZTUzIiwiZW1haWwiOiJtYW51ZWxoaWxsQGdtYWlsLmNvbSIsImlhdCI6MTY2MTA3NTU0NCwiZXhwIjoxNjYxMDc2MTQ0fQ.Wv1qoSstleXpohYnktcWlx0_11YJUV5Yy_pgmTaTh64
 
  ```
