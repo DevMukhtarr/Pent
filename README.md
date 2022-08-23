@@ -91,7 +91,7 @@ General:
 
  request sample
 
- using ``` x-access-token ``` as key for header and the jwt you get in either signin or signup i.e.
+ using ``` x-access-token ``` as key for header and the jwt token you get in either signin or signup i.e.
 
  ```
  
