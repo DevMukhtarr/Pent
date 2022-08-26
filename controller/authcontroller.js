@@ -6,7 +6,7 @@ import bcrypt from "bcryptjs"
 export const signUp = async (req, res) => {
     const { firstname, lastname, email, password, confirm_password} = req.body
 
-    if(!firstname && lastname && email && password && confirm_password){
+    if(!(firstname && lastname && email && password && confirm_password)){
         return res.status(400).send("All inputs are required");
     }
 
